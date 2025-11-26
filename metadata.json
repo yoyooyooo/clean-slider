@@ -1,0 +1,5 @@
+{
+  "name": "CleanSlide - NotebookLM PDF Cleaner",
+  "description": "A specialized tool to remove edge watermarks from NotebookLM generated PDFs via cropping, with added Gemini AI summarization capabilities.",
+  "requestFramePermissions": []
+}
